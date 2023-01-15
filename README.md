@@ -3,3 +3,11 @@ For my final project I made an unnamed game based on the popular game mario. Is 
 
 ## Link to Video Demo
 https://drive.google.com/drive/u/0/folders/134LxuwWfq8Z4kXtDFODyTaIRQdzKCghI
+
+## Screen Shot Of Project
+### Start Area
+![1](ss/1.png)
+### Running Animation
+![1](ss/2.png)
+### Jumping Animation
+![1](ss/3.png)
